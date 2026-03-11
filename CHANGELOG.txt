@@ -1,0 +1,11 @@
+CHANGELOG.txt
+
+SchoolFlow v1.0
+Build 2026.03
+
+• Sistema de tarefas
+• Controle de faltas
+• Calendário de eventos
+• Sistema de grupos
+• Reset completo de dados
+• Interface inicial
