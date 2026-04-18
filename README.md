@@ -28,10 +28,9 @@ O **Controle Escolar** é um aplicativo desktop para Windows desenvolvido para a
 
 ### Baixar o Aplicativo
 
-1. Acesse a página de [Releases](https://github.com/seu-usuario/controle-escolar/releases)
-2. Baixe o arquivo `ControleEscolarHQ.exe`
-3. Execute o arquivo baixado
-4. O aplicativo não precisa de instalação
+1. Baixe o arquivo `main.exe`
+2. Execute o arquivo baixado
+3. O aplicativo não precisa de outras instalações
 
 ### Requisitos do Sistema
 
