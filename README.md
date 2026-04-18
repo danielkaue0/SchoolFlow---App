@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **📢 LEIA O ALERT.MARKDOWN ANTES DE CONTINUAR**  
+> Clique aqui: [ALERT.markdown](ALERT.markdown)
+
 # 🎓 Controle Escolar
 
 Sistema de organização de tarefas e produtividade para estudantes.
